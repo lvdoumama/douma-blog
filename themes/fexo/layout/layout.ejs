@@ -1,6 +1,7 @@
 <%- partial('_partial/head') %>
 <body>
 
+  <%- partial('_partial/old-ie') %>
 
   <% if(theme.toolbox && theme.toolbox.isShow == true && page.base !== '') { %>
     <span id="toolbox-mobile" class="toolbox-mobile"><%=  theme.toolbox.text %></span>

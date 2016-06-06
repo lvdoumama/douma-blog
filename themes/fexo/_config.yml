@@ -1,10 +1,10 @@
 # Blog info
 blog_name: ShanShan
-slogan: "起风了，唯有努力生存。"
+slogan: "Live well, love lots, and laugh often."
 url: http://wangshanshan.info
 
 # Set avatar (Absolute url and relative url)
-avatar: /statics/avatar3.jpg
+avatar: /statics/avatar.jpeg
 
 # Set favicon
 favicon: /favicon.ico
@@ -20,7 +20,7 @@ home_nav:
     url: /project/
     target_blank: true #在新页面打开
   - name: Github
-    url: https://github.com/forsigner
+    url: https://github.com/lvdoumama
     target_blank: true
 
 # config page nav
@@ -61,7 +61,7 @@ search_slogan:
 
 link_slogan:
   isShow: true # true|fase
-  text: 交换友链可以邮件 forsigner@gmail.com
+  text: A friend is a second self.
 
 # set backtop show or hide
 backtop:
@@ -74,8 +74,8 @@ backtop:
   about: false
 
 post:
-  header_align: CENTER # LEFT|CENTER
-  showToc: true # true|false
+  header_align: LEFT # LEFT|CENTER
+  showToc: false # true|false
   showComments: true
 
 # =========================================================
@@ -87,10 +87,9 @@ personal_style: /statics/site.css
 
 home_background_scheme: light # dark、light
 
-# custom font-family 暂时只支持这3种英文字体，你可以完全自定义字体(看文档)
+# 英文字体
 blog_name_font_familiy: calligraffittiregular
-# blog_name_font_familiy: Lobster-Regular
-# blog_name_font_familiy: PoiretOne-Regular
+
 
 init_page_content: HOME_NAV  # HOME_NAV | POST
 
@@ -99,7 +98,7 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # 第三方服务
 # =========================================================
 # Stats
-baidu_analytics: 219062a13ded246daaa92ec44ebc0fa8
+baidu_analytics: c46b9299cb49535738e11d6e5947a5fa
 
 # Comment service
 duoshuo_shortname: ssbunny
@@ -118,8 +117,8 @@ about:
   - type: Github
     icon: icon-github
     text_key: Github
-    text_value: "@forsigner"
-    text_value_url: https://github.com/forsigner
+    text_value: "@lvdoumama"
+    text_value_url: https://github.com/lvdoumama
   - type: weibo
     icon: icon-weibo
     text_key: 微博
@@ -133,14 +132,16 @@ about:
     text_key: 济南
 
 link:
-  - name: 织网
-    info: 身体和灵魂，总有一个在路上
-    url: http://zheng-ji.info/
-    avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=100
-  - name: Dongyado
-    info: 生命不止，折腾不息
-    url: http://dongyado.com/
-    avatar: https://avatars0.githubusercontent.com/u/6274940?v=3&s=100
+  - name: 绿豆爸爸
+    info: "Le vent se lève, il faut tenter de vivre."
+    url: http://zhangqiang.work/
+    avatar: /statics/dou_ba.jpg
+  - name: Hexo
+    info: "A fast, simple & powerful blog framework."
+    url: https://hexo.io/docs/
+    avatar: https://hexo.io/logo.svg
+
+    
 
 project:
   - type: personal
