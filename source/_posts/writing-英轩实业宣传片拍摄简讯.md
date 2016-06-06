@@ -1,7 +1,7 @@
 title: 英轩的每一天 世界的每一天
 date: 2016-01-01 21:58:52
 categories: Writing
-permalink: 11
+num: 1
 tags:
  - 哈哈
 ---

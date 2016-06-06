@@ -14,8 +14,9 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://wangshanshan.info
 root: /
-permalink: posts/:/
+permalink: posts/:year:month:day:num/
 permalink_defaults:
+	num: 0
 
 # Directory
 source_dir: source
