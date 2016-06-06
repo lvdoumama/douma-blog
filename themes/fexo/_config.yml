@@ -1,10 +1,10 @@
 # Blog info
 blog_name: ShanShan
-slogan: Hello
-url: http://www.forsigner.com
+slogan: "起风了，唯有努力生存。"
+url: http://wangshanshan.info
 
 # Set avatar (Absolute url and relative url)
-avatar: /images/avatar.jpg
+avatar: /statics/avatar3.jpg
 
 # Set favicon
 favicon: /favicon.ico
@@ -53,11 +53,11 @@ breadcrumb:
 # 盒子
 toolbox:
   isShow: true # true|fase
-  text: 盒子
+  text: 导航
 
 search_slogan:
   isShow: true # true|fase
-  text: Can you find the bug of world ~
+  text: "If a man empties his purse into his head, no man can take it away from him, an investment in knowledge always pays the best interest."
 
 link_slogan:
   isShow: true # true|fase
@@ -83,7 +83,7 @@ post:
 # =========================================================
 
 # Custom CSS style
-personal_style: /css/site.css
+personal_style: /statics/site.css
 
 home_background_scheme: light # dark、light
 
