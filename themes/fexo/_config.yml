@@ -4,7 +4,7 @@ slogan: "Live well, love lots, and laugh often."
 url: http://wangshanshan.info
 
 # Set avatar (Absolute url and relative url)
-avatar: /statics/avatar.jpeg
+avatar: /statics/i/avatar_s.jpg
 
 # Set favicon
 favicon: /favicon.ico
@@ -111,19 +111,18 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "shanshan，1987."
-    - "好吃懒做"
-    - "什么都不会"
+    - 语言感觉来源于天赋和勤奋阅读写作。
+    - 天赋其实是你与生俱来的生活态度：乐观、机智、稳健、敏捷、单纯、老练，它可以清晰的反映在你所运用的语言里。而勤奋的思考阅读写作可以让你更加熟练的操纵这种感觉。
   - type: Github
     icon: icon-github
     text_key: Github
     text_value: "@lvdoumama"
     text_value_url: https://github.com/lvdoumama
-  - type: weibo
-    icon: icon-weibo
-    text_key: 微博
-    text_value: "@forsigner"
-    text_value_url: http://weibo.com/u/1847075964
+  # - type: weibo
+  #   icon: icon-weibo
+  #   text_key: 微博
+  #   text_value: "@forsigner"
+  #   text_value_url: http://weibo.com/u/1847075964
   - type: mail
     icon: icon-mail
     text_key: qqbunny@yeah.net
@@ -135,7 +134,7 @@ link:
   - name: 绿豆爸爸
     info: "Le vent se lève, il faut tenter de vivre."
     url: http://zhangqiang.work/
-    avatar: /statics/dou_ba.jpg
+    avatar: /statics/i/avatar_q.jpg
   - name: Hexo
     info: "A fast, simple & powerful blog framework."
     url: https://hexo.io/docs/
