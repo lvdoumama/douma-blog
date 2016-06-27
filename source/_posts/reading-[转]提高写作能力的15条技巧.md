@@ -1,6 +1,6 @@
 title: (转)提高写作能力的 15 条技巧
-date: 2011-04-13 21:58:52
-categories: Writing
+date: 2015-04-13 21:58:52
+categories: Reading
 tags:
  - 写作技巧
 ---
