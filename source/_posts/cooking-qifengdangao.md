@@ -1,6 +1,5 @@
 title: 戚风蛋糕
-date: 2014-12-26 21:58:52
-updated: 2015-12-26 21:58:52
+date: 2015-12-26 21:58:52
 categories: Cooking
 tags:
  - 烘焙

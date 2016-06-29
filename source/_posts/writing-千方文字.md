@@ -1,8 +1,7 @@
-title: (?)千方文字
-date: 2010-04-11 20:00:00
+title: 千方文字
+date: 2014-03-14 20:00:00
 categories: Writing
-tags:
- - 哈哈
+num: 1
 ---
 
 每一天清晨，
